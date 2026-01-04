@@ -81,7 +81,7 @@ const App: React.FC = () => {
                     transition={{ duration: isZooming ? 1 : 8, repeat: isZooming ? 0 : Infinity, ease: isZooming ? "circIn" : "linear" }}
                     className="absolute inset-0 flex justify-center pt-8"
                    >
-                     <div className="w-4 h-4 bg-black rounded-full" />
+                     <div className="w-4 h-4 bg-white rounded-full shadow-[0_0_12px_rgba(255,255,255,0.8)]" />
                    </motion.div>
                  ))}
               </div>
