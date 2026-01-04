@@ -1,0 +1,7 @@
+{
+  "name": "Zen's Shinobi Portfolio",
+  "description": "A high-performance, Naruto-inspired portfolio for Zen, featuring chakra energy effects, custom cursor, and cinematic animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
